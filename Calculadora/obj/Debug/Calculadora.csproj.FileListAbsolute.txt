@@ -1,0 +1,10 @@
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.frmTelaPrincipal.resources
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Christian\Desktop\DEV WAY\C# II\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
